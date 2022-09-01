@@ -1,5 +1,4 @@
 altgraph==0.17.2
-anaconda-navigator==2.2.0
 appdirs==1.4.4
 atomicwrites==1.4.0
 auto-py-to-exe==2.22.0
@@ -8,13 +7,9 @@ bkcharts==0.2
 black==19.10b0
 bottle==0.12.23
 bottle-websocket==0.2.9
-brew==0.1.3
 brotlipy==0.7.0
 certifi==2021.10.8
 clyent==1.2.2
-conda==4.13.0
-conda-build==3.21.8
-conda-verify==3.4.2
 constantly==15.1.0
 cssselect==1.1.0
 cytoolz==0.11.0
